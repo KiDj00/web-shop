@@ -1,0 +1,1 @@
+create schema web_shop_init;
