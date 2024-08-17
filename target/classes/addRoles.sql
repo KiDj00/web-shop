@@ -1,2 +1,2 @@
-INSERT IGNORE INTO role (name, description) VALUES ('USER', 'Moze da izvrsava kupovinu i da pristupi prikazu otalih entiteta');
-INSERT IGNORE INTO role (name, description) VALUES ('ADMIN', 'Ima sve moguce privilegije');
+INSERT IGNORE INTO role (name, description) VALUES ('USER', 'Omogućen rad sa Shopping cart-om i prikazi svih ostalih entiteta');
+INSERT IGNORE INTO role (name, description) VALUES ('ADMIN', 'Ima sve moguće privilegije');
