@@ -4,7 +4,6 @@ import org.mapstruct.Mapper;
 import org.mapstruct.MappingTarget;
 import org.mapstruct.factory.Mappers;
 import rs.webshop.domain.Category;
-import rs.saga.obuka.sagashop.dto.category.*;
 import rs.webshop.dto.category.*;
 import rs.webshop.dto.product.CategoryDto;
 

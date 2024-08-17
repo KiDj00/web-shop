@@ -1,7 +1,6 @@
 package rs.webshop.service;
 
 import rs.webshop.domain.User;
-import rs.saga.obuka.sagashop.dto.user.*;
 import rs.webshop.dto.user.*;
 import rs.webshop.exception.DAOException;
 import rs.webshop.exception.ServiceException;

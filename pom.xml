@@ -12,7 +12,7 @@
     </parent>
 
     <groupId>rs.saga.obuka</groupId>
-    <artifactId>sagashop</artifactId>
+    <artifactId>WebShop</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
 

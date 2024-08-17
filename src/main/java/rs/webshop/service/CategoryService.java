@@ -1,7 +1,6 @@
 package rs.webshop.service;
 
 import rs.webshop.domain.Category;
-import rs.saga.obuka.sagashop.dto.category.*;
 import rs.webshop.dto.category.*;
 import rs.webshop.exception.ServiceException;
 

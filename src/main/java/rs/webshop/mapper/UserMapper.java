@@ -5,7 +5,6 @@ import org.mapstruct.Mapping;
 import org.mapstruct.MappingTarget;
 import org.mapstruct.factory.Mappers;
 import rs.webshop.domain.User;
-import rs.saga.obuka.sagashop.dto.user.*;
 import rs.webshop.dto.user.*;
 
 import java.util.List;

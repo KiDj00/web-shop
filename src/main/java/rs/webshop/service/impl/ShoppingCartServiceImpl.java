@@ -4,8 +4,6 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-import rs.saga.obuka.sagashop.dao.*;
-import rs.saga.obuka.sagashop.domain.*;
 import rs.webshop.dao.*;
 import rs.webshop.domain.*;
 import rs.webshop.dto.item.CreateItemCmd;

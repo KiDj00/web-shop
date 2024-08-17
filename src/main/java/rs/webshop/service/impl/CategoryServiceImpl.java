@@ -7,7 +7,6 @@ import org.springframework.transaction.annotation.Transactional;
 import rs.webshop.dao.CategoryDAO;
 import rs.webshop.domain.Category;
 import rs.webshop.domain.Product;
-import rs.saga.obuka.sagashop.dto.category.*;
 import rs.webshop.dto.category.*;
 import rs.webshop.exception.DAOException;
 import rs.webshop.exception.ErrorCode;

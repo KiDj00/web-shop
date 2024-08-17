@@ -10,7 +10,6 @@ import rs.webshop.domain.PayPalAccount;
 import rs.webshop.domain.Role;
 import rs.webshop.domain.RoleEnum;
 import rs.webshop.domain.User;
-import rs.saga.obuka.sagashop.dto.user.*;
 import rs.webshop.dto.user.*;
 import rs.webshop.exception.DAOException;
 import rs.webshop.exception.ErrorCode;
