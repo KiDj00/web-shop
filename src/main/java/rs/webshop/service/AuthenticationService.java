@@ -9,4 +9,9 @@ public interface AuthenticationService {
     User signup(RegisterUserDto input) throws DAOException;
 
     User authenticate(LoginUserDto input);
+
+    void logout(String token);
+
+    User findByUsername(String username);
+
 }

@@ -15,8 +15,8 @@ import rs.webshop.dto.user.UserView;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2024-08-17T23:27:23+0200",
-    comments = "version: 1.4.2.Final, compiler: javac, environment: Java 17.0.10 (Oracle Corporation)"
+    date = "2024-08-21T14:35:13+0200",
+    comments = "version: 1.4.2.Final, compiler: javac, environment: Java 17.0.11 (Amazon.com Inc.)"
 )
 public class UserMapperImpl implements UserMapper {
 
